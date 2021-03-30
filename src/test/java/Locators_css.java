@@ -47,7 +47,7 @@ public class Locators_css {
        WebElement checkbox2= driver.findElement(By.xpath("//input[@type=\"checkbox\"][2]"));
         checkbox2.click();
 
-       Assert.assertTrue(checkbox1.isSelected());
+      System.out.println("Master branch commit");
 
 
 
