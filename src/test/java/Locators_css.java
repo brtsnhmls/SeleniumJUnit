@@ -48,7 +48,7 @@ public class Locators_css {
         checkbox2.click();
 
       System.out.println("Master branch commit");
-
+      System.out.println("Gitt son satir commit");
 
 
     }
