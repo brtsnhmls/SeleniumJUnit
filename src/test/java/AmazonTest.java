@@ -39,7 +39,10 @@ public class AmazonTest {
 
         WebElement price=driver.findElement(By.id("price_inside_buybox"));
         System.out.println(price.getText());
-
+        
+         System.out.println("master branch test");
+         System.out.println("master branch test");
+        
 
 
     }
